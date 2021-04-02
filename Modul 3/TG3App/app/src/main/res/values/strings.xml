@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TG3App</string>
+    <string name="data_mhs">Data Mahasiswa</string>
+    <string name="jidan">A.Jidan Fahrizal</string>
+    <string name="nama">Nama</string>
+    <string name="nim">NIM</string>
+    <string name="nim_jidan">1809075018</string>
+    <string name="btn_submit">Submit</string>
+</resources>
