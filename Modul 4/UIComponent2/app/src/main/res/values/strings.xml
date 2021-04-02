@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Latihan_UIComponent</string>
+    <string name="nama">Nama:</string>
+    <string name="gender">Gender:</string>
+    <string name="prodi">Prodi</string>
+    <string name="pria">PRIA</string>
+    <string name="wanita">WANITA</string>
+    <string name="telek">S1 Teknik Elektro</string>
+    <string name="tindu">S1 Teknik Industri</string>
+    <string name="tkim">S1 Teknik Kimia</string>
+</resources>
