@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">praktik</string>
+    <string name="hapus_semua_catatan">Hapus Semua Catatan</string>
+    <string name="judul">Judul</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="prioritas">Prioritas:</string>
+</resources>
