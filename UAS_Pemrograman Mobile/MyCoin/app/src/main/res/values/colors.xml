@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#07574F</color>
+    <color name="colorPrimaryDark">#050505</color>
+    <color name="colorAccent">#009688</color>
+    <color name="colorRed">#E91E63</color>
+
+    <color name="toolbarBg">#07574F</color>
+    <color name="headerBg">#07574F</color>
+    <color name="discBg">#07574F</color>
+    <color name="cardText">#0e1111</color>
+    <color name="defaultText">#0e1111</color>
+    <color name="white">#FCFDFD</color>
+</resources>
